@@ -1,4 +1,4 @@
-# GettingCleaningDataAssignment
+# Getting Cleaning Data Assignment
 
 This repo for the Getting and Cleaning Data Course Project has been completed by Matthew Chan.
 
